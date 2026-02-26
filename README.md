@@ -1,8 +1,9 @@
 
 <p align="center">
-Hello! 👋 I'm <h4>Mohamed Elmaatouqui</h4> from Morocco 🇲🇦.  
-A Full Stack Developer who loves turning ideas into real web applications. 💻  
-Always passionate about learning new technologies and building cool projects. 🚀
+👋 Hello!  
+<h1><b>Mohamed Elmaatouqui</b></h1>
+A Full Stack Developer from Morocco 🇲🇦 💻  
+I love turning ideas into real web applications and learning new technologies every day. 🚀
 </p>
 <h3 align="center">Full Stack Developer from Morocco 🇲🇦</h3>
 
