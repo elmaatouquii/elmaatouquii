@@ -1,6 +1,6 @@
 
 <p align="center">
-Hello! 👋 I'm <b>Mohamed Elmaatouqui</b> from Morocco 🇲🇦.  
+Hello! 👋 I'm <h2>Mohamed Elmaatouqui</h2> from Morocco 🇲🇦.  
 A Full Stack Developer who loves turning ideas into real web applications. 💻  
 Always passionate about learning new technologies and building cool projects. 🚀
 </p>
