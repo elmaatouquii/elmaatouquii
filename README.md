@@ -14,11 +14,11 @@ mohamed-elmaatouqui-64957832b
 
 <div class="images-row">
     <a href="https://www.google.com" target="_blank">
-        <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="500">
+        <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIxNDEzMzUsIm5iZiI6MTc3MjE0MTAzNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI2VDIxMjM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyOWIzODZlNTg0Nzk3NzA1YjQwMTk0Y2IwNzA2MzJmZjBkOTcyNzU5OTNjMTk2ZDdmOGY5MjU2ZmVjZDlmNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.r6C4iee78WZ5Nr2tGFi4NCDFrrAqOeNb0NaFGwBMSko" alt="My Image" width="500">
     </a>
 
     <a href="https://www.google.com" target="_blank">
-        <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="500">
+        <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIxNDEzMzUsIm5iZiI6MTc3MjE0MTAzNSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI2VDIxMjM1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwZTViMzJjYmNkNmI1OTViMmYyM2YyZDQ3YTNmZjU0MmU0NWQ5M2E0ZWRjODU5ZWVmYTBjZmNlMWRkMWQzOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eM6W_Ggh1dYc6M7LFTTCzg0qiONl70J2R3buvdaPUbk" alt="My Image" width="500">
     </a>
 </div>
 .images-row {
