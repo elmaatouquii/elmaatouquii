@@ -1,5 +1,5 @@
 
-# 🌟 Welcome to MOHAMED elma EL MAATOUQUI's Profile 🌟
+# 🌟 Welcome to MOHAMED ELMAATOUQUI Profile 🌟
 
 <p><em>Full-stack developer | PHP & Laravel | Building web apps @ OFPPT – DevMoment Informatique</em></p>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-**Email:** maatoukmoh3@gmail.com
+**Email:** elmaatoukuimohamed@gmail.com
 **Phone:** +212705912597
 
 </div>
@@ -44,4 +44,4 @@
 
 </div>
 
-<h2 align="center">Multitasking</h2> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Multitasking" width="600"> </p><h2 align="center">Modern Work Environment</h2> <p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="Modern Work" width="500"> </p>
+
