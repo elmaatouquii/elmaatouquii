@@ -15,11 +15,49 @@ const mohamed = {
 🛠 Languages and Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js,jquery,laravel,mongodb,mysql,nodejs,php,react,redux,tailwind,postman,git,figma" /> </p>
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medev&show_icons=true&theme=merko&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=medev&theme=merko&hide_border=true" width="48%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medev&layout=compact&theme=merko&hide_border=true" width="40%" alt="Top Languages" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=medev&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </div>
-🐍 GitHub Activity
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/medev/medev/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/medev/medev/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/medev/medev/output/github-contribution-grid-snake.svg"> </picture> </div>
-🎯 Fun Zone
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medev&show_icons=true&theme=merko&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=medev&theme=merko&hide_border=true" width="48%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?<div align="center">
+
+# 🌟 Welcome to MOHAMED elma EL MAATOUQUI's Profile 🌟
+
+<p><em>Full-stack developer | PHP & Laravel | Building web apps @ OFPPT – DevMoment Informatique</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
+
+## 👀 I'm interested in
+
+<div align="center"><p>💻 Full-stack development | PHP & Laravel | Performance optimization</p></div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/elmaatouquii"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/mohamed-elmaatouqui-64957832b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** maatoukmoh3@gmail.com
+**Phone:** +212705912597
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'elmaatouquii' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=elmaatouquii&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/elmaatouquii?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
+
 <h2 align="center">Multitasking</h2> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Multitasking" width="600"> </p><h2 align="center">Modern Work Environment</h2> <p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="Modern Work" width="500"> </p>
-<div align="center"> <h3>⭐️ From Morocco with ❤️</h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p> <p>📊 Total Contributions: 1 | Current Streak: 0 | Longest Streak: 1</p> </div>
