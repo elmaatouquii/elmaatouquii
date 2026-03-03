@@ -64,13 +64,27 @@ I'm a passionate **Full-Stack Developer** trained at **OFPPT – DevMoment Infor
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmaatouquii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmaatouquii&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmaatouquii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmaatouquii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmaatouquii&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmaatouquii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📁 Featured Projects
+
+> 💡 **Remplace** `NOM_DU_REPO_1`, `NOM_DU_REPO_2`, `NOM_DU_REPO_3` par les vrais noms de tes repos GitHub
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_2)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_3)
+
 </div>
 
 ---
@@ -82,7 +96,7 @@ I'm a passionate **Full-Stack Developer** trained at **OFPPT – DevMoment Infor
 [![GitHub](https://img.shields.io/badge/GitHub-elmaatouquii-9a6bdf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmaatouquii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Elmaatouqui-df6b9a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elmaatouqui-64957832b)
 [![Email](https://img.shields.io/badge/Email-elmaatoukuimohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmaatoukuimohamed@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B212705912597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212705912597)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B212705912597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212705912597)
 
 </div>
 
