@@ -77,9 +77,9 @@ I'm a passionate **Full-Stack Developer** trained at **OFPPT – DevMoment Infor
 
 ## 📁 Featured Projects
 
-> 💡 **Remplace** `NOM_DU_REPO_1`, `NOM_DU_REPO_2`, `NOM_DU_REPO_3` par les vrais noms de tes repos GitHub
-
 <div align="center">
+
+<!-- ✏️ Remplace NOM_DU_REPO_1 / 2 / 3 par les vrais noms de tes repos -->
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_2)
