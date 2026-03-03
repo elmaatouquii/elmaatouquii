@@ -1,26 +1,62 @@
+👋 Bonjour, Je suis Mohamed Elmaatouqui
+🚀 Full Stack Developer | Laravel | React | TailwindCSS
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F9C36&center=true&vCenter=true&width=435&lines=Laravel+Artisan;React+Developer;Tailwind+CSS;Moroccan+Dev" alt="Typing SVG" /> </div>
+🧑‍💻 À propos de moi
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh3dXlqY3BwY3c4YzB1d2Z1bWh5d3RydzBrdHh6YzN2dGp6b3pmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif">
+🔭 Je travaille actuellement sur des applications web avec Laravel & React
 
-<p align="center">
-👋 Hello!  
-<h1><b>Mohamed Elmaatouqui</b></h1>
-A Full Stack Developer from Morocco 🇲🇦 💻  
-I love turning ideas into real web applications and learning new technologies every day. 🚀
-</p>
-<h3 align="center">Full Stack Developer from Morocco 🇲🇦</h3>
+🌱 J'apprends actuellement React Native & Flutter
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/mohamed-elmaatouqui-64957832b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mohamed-elmaatouqui-64957832b" height="30" width="40" /></a>
-</p>
+👯 Je cherche à collaborer sur des projets open source
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+💬 Demandez-moi à propos de Laravel, React, TailwindCSS, PHP
 
-<h2>Multitasking</h2>
-<a href="https://www.google.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="My Image" width="600">
-</a>
-<h2>Modern Work Environment</h2>
-<a href="https://www.google.com" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIyMTU3MzgsIm5iZiI6MTc3MjIxNTQzOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI3VDE4MDM1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiOGY3MWZlN2I0MzJmYzVmNTg1MzU5ZDQyNTNkNzAzMDUzYjE3ODY5MWU1YThkMDNmNDQ3Y2I3YjNjNTBjMDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rGtzE-fWo04IrYZBbLjta0ZCGlBhfMGSyWYj7mPJbuo" alt="My Image" width="500">
-</a>
+📫 Comment me joindre: elmaatouqui.dev@gmail.com
 
+⚡ Fun fact: Je code mieux la nuit 🌙
+
+🛠 Stack Technique
+<div align="center">
+Frontend
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+Backend
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
+Base de données
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
+Outils & DevOps
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+
+</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medev&show_icons=true&theme=merko&hide_border=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=medev&theme=merko&hide_border=true" width="48%" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medev&layout=compact&theme=merko&hide_border=true" width="40%" alt="Top Languages" /> </div>
+🏆 Trophées GitHub
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=medev&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </div>
+📌 Projets en vedette
+<div align="center"> <a href="https://github.com/medev/cooperative-management"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=medev&repo=cooperative-management&theme=merko&hide_border=true" /> </a> <a href="https://github.com/medev/ecommerce-laravel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=medev&repo=ecommerce-laravel&theme=merko&hide_border=true" /> </a> </div>
+🌐 Me trouver
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+</div>
+🐍 GitHub Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/medev/medev/output/github-contribution-grid-snake-dark.svg" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=medev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <h3>⭐️ From Morocco with ❤️</h3> </div>
