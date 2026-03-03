@@ -79,9 +79,11 @@ I'm a passionate **Full-Stack Developer** trained at **OFPPT – DevMoment Infor
 
 <div align="center">
 
-[![cooperatives-site](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=cooperatives-site&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/cooperatives-site)
-[![dashboard-admin](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=dashboard-admin&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/dashboard-admin)
-[![Gestion-Hotel](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=Gestion-Hotel&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/Gestion-Hotel)
+| 🏢 Cooperatives Site | 📊 Dashboard Admin | 🏨 Gestion Hotel |
+|:---:|:---:|:---:|
+| A web platform for managing cooperatives | Admin dashboard with analytics & management | Hotel management system |
+| [![View Repo](https://img.shields.io/badge/View%20Repo-cooperatives--site-FF2D20?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmaatouquii/cooperatives-site) | [![View Repo](https://img.shields.io/badge/View%20Repo-dashboard--admin-6c63ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmaatouquii/dashboard-admin) | [![View Repo](https://img.shields.io/badge/View%20Repo-Gestion--Hotel-38B2AC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmaatouquii/Gestion-Hotel) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
 
 </div>
 
