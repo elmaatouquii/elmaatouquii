@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+███████╗██╗     ███╗   ███╗ █████╗  █████╗ ████████╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗
+██╔════╝██║     ████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██║   ██║██╔═══██╗██║   ██║██║
+█████╗  ██║     ██╔████╔██║███████║███████║   ██║   ██║   ██║██║   ██║██║   ██║██║   ██║██║
+██╔══╝  ██║     ██║╚██╔╝██║██╔══██║██╔══██║   ██║   ██║   ██║██║   ██║██║▄▄ ██║██║   ██║██║
+███████╗███████╗██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝██║
+╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚═╝
 ```
 
 ### 👋 Hi, I'm **Mohamed Elmaatouqui**
@@ -79,11 +79,9 @@ I'm a passionate **Full-Stack Developer** trained at **OFPPT – DevMoment Infor
 
 <div align="center">
 
-<!-- ✏️ Remplace NOM_DU_REPO_1 / 2 / 3 par les vrais noms de tes repos -->
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=NOM_DU_REPO_3&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/NOM_DU_REPO_3)
+[![cooperatives-site](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=cooperatives-site&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/cooperatives-site)
+[![dashboard-admin](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=dashboard-admin&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/dashboard-admin)
+[![Gestion-Hotel](https://github-readme-stats.vercel.app/api/pin/?username=elmaatouquii&repo=Gestion-Hotel&theme=tokyonight&hide_border=true)](https://github.com/elmaatouquii/Gestion-Hotel)
 
 </div>
 
