@@ -64,16 +64,18 @@ I'm a passionate **Full-Stack Developer** trained at **OFPPT – DevMoment Infor
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmaatouquii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmaatouquii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=blade,shell&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elmaatouquii&theme=tokyonight" width="100%" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmaatouquii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-> ⚠️ *Les langages affichés sont calculés automatiquement depuis tes repos **publics** uniquement. Pour avoir des stats correctes, assure-toi que tes repos sont publics sur GitHub.*
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elmaatouquii&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elmaatouquii&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elmaatouquii&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elmaatouquii&theme=tokyonight&utcOffset=1" />
+
+</div>
 
 ---
 
